@@ -1,0 +1,83 @@
+I want you to help me evaluate and improve my resume for a specific job. Act as an
+experienced recruiter and resume specialist.
+The job I'm applying for: Data Scientist
+
+About the job
+We are seeking a highly skilled Data Scientist with strong AI/ML expertise to drive advanced analytics, predictive modeling, and AI-led innovation across business functions. The role will focus on developing scalable machine learning solutions, leveraging structured and unstructured data, and delivering actionable insights to enable data-driven decision-making.
+
+Key responsibilities:
+
+Design, develop, and deploy machine learning and AI models for predictive and prescriptive analytics
+Build models for Risk modeling, Customer segmentation,Forecasting and optimization
+Explore large datasets to extract patterns, trends, and insights
+Perform data cleaning, transformation, and feature engineering
+Work with structured and unstructured data (text, images, etc.)
+Develop and implement AI-driven solutions and use cases
+Integrate models into production environments using APIs or pipelines
+Exposure of model deployment (MLOps)
+Hands on Experience on Agentic AI workflows would be plus.
+
+
+Technical Skills
+
+Strong proficiency in:
+
+Python / R
+SQL
+Expertise in :
+
+Scikit-learn
+TensorFlow / PyTorch
+Model development lifecycle (end-to-end)
+Feature engineering and hyperparameter tuning
+Model evaluation metrics
+NLP
+Deep learning models
+Generative AI (LLMs, prompt engineering)
+MLOps tools (MLflow, Kubeflow, Azure ML, etc.)
+Agentic Workflow (Nice to Have)
+Experience with:
+
+Knowledge of data visualization tools:
+
+Power BI / Tableau / Matplotlib / Seaborn
+
+Please structure your response under the following sections:
+
+1. Job Fit & Relevance Analysis
+Assess how well my profile aligns with the role requirements.
+Identify the experiences, projects, and accomplishments that are most relevant to the position.
+Highlight any achievements that should be given greater visibility or moved higher in the resume.
+Explain which parts of my background would be most attractive to the hiring team.
+
+2. ATS Keyword & Terminology Assessment
+Extract the most important keywords, technical skills, competencies, and phrases from the job description.
+Identify keywords that are currently missing, underrepresented, or could be incorporated more effectively.
+Recommend role-specific terminology, business language, and measurable metrics that would strengthen ATS performance and recruiter appeal.
+
+3. Gap Analysis & Positioning Strategy
+Identify any missing qualifications, tools, technologies, certifications, or experiences requested in the job description.
+Suggest transferable skills, adjacent experiences, or accomplishments that can be used to compensate for these gaps.
+Recommend practical ways to reframe existing experience to better align with the employer’s expectations.
+Categorize gaps as Critical, Moderate, or Minor.
+
+4. Resume Enhancement Recommendations
+Provide section-by-section feedback on the resume.
+Recommend additions, removals, and rewrites to improve clarity, impact, and relevance.
+Rewrite weak bullet points using strong action verbs, quantifiable outcomes, and business impact.
+Identify outdated content, redundant information, or low-value sections that should be modified or removed.
+Suggest improvements to the Professional Summary, Skills, Experience, Projects, Education, and Certifications sections.
+
+5. ATS Optimization Review
+Estimate the current ATS match score (out of 100) for this job.
+Provide an expected ATS score after implementing the recommendations.
+Suggest formatting improvements to maximize ATS compatibility.
+Recommend keyword placement strategies and section ordering for better ATS parsing.
+Highlight any formatting choices that may negatively affect automated screening systems.
+
+6. Final Action Plan
+List the top 10 changes that would have the highest impact on improving my chances of getting shortlisted.
+Prioritize recommendations into:
+High Priority (Must Fix)
+Medium Priority (Should Improve)
+Low Priority (Optional Enhancements)
