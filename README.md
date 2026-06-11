@@ -2,7 +2,8 @@ Applying to multiple jobs with the same resume often reduces your chances of get
 
 This project demonstrates how to leverage ChatGPT to customize your resume for different job roles efficiently while maintaining authenticity and professionalism.
 
-What You'll Learn
+What You'll Learn:
+
 ✅How to analyze a job description using ChatGPT
 
 ✅How to identify important keywords and skills
@@ -18,7 +19,8 @@ What You'll Learn
 Video Tutorial
 Watch the complete step-by-step tutorial here: https://www.youtube.com/watch?v=7ooFRCA740o&t=27s
 
-Benefits of Resume Customization
+Benefits of Resume Customization:
+
 ✅Improves ATS score
 
 ✅Increases interview call chances
