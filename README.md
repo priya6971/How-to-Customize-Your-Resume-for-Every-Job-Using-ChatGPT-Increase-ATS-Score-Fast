@@ -4,10 +4,15 @@ This project demonstrates how to leverage ChatGPT to customize your resume for d
 
 What You'll Learn
 ✅How to analyze a job description using ChatGPT
+
 ✅How to identify important keywords and skills
+
 ✅How to align your resume with a specific role
+
 ✅How to improve ATS compatibility
+
 ✅How to highlight relevant experience effectively
+
 ✅Best practices for resume customization
 
 Video Tutorial
@@ -15,9 +20,13 @@ Watch the complete step-by-step tutorial here: https://www.youtube.com/watch?v=7
 
 Benefits of Resume Customization
 ✅Improves ATS score
+
 ✅Increases interview call chances
+
 ✅Highlights role-specific skills
+
 ✅Makes your application more relevant
+
 ✅Helps recruiters quickly identify your strengths
 
 Always verify and review the generated content before submitting your resume. ChatGPT should be used as an assistant to improve your resume, not as a replacement for your professional judgment and experience.
